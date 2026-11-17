@@ -3,7 +3,7 @@ name = "SigmaOS-top"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "top component"
+description = "top process viewer: live process table snapshots"
 upstream = []
 
 [contract]
